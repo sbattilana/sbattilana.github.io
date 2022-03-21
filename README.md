@@ -2,7 +2,7 @@
 
 ### About
 
-My name is Seth Battilana and I graduated from UCLA in 2020 with a degree in Astrophysics. Since then, I have worked as a Specialist Software Design Engineer and Analyst at AT&T Government Solutions. In April 2021, AT&T Government Solutions was acquired by a company called Tyto Athene, LLC. I am very passionate about software engineering, space technologies, and video game design.
+My name is Seth Battilana and I graduated from UCLA in 2020 with a degree in Astrophysics. Since then, I have worked as a Specialist Software Design Engineer and Analyst at AT&T Government Solutions. In April 2021, AT&T Government Solutions was acquired by a company called Tyto Athene, LLC. I am very passionate about software engineering, space technologies, and video game design. You can view my professional resume [here](https://github.com/sbattilana/sbattilana.github.io/raw/main/ResumeSethBattilana.03212022.pdf)
 
 You can use the [editor on GitHub](https://github.com/sbattilana/sbattilana.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -39,3 +39,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ 
